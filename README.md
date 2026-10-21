@@ -20,7 +20,7 @@
 |---|---|
 | 🎮 **Beginnings** | Started coding with **Java**, building **Spigot plugins** for Minecraft servers |
 | 🐍 **Next step** | Moved on to **Python** for scripting and automation |
-| 🌐 **Web** | Added **PHP** for web projects |
+| 🌐 **Web** | Added **PHP**, **JavaScript** and **TypeScript** for fullstack web projects |
 | 🖥️ **Infrastructure** | Got into **Proxmox** virtualization, **GitLab** CI/CD and Linux servers |
 | ☁️ **Today** | Fullstack Software Developer & DevOps Engineer at **WIIT** |
 
@@ -33,6 +33,8 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spigot](https://img.shields.io/badge/Spigot-ED8106?style=for-the-badge&logo=spigotmc&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
