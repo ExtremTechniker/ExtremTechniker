@@ -53,3 +53,4 @@
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-hesselmann-166120189/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:robert@hesselmann.me)
+[![Matrix](https://img.shields.io/badge/Matrix-000000?style=flat-square&logo=matrix&logoColor=white)](https://matrix.to/#/@extremtechniker:matrix.org)
