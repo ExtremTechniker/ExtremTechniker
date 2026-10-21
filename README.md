@@ -4,14 +4,14 @@
 
 # Hi, I'm Robert 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Cloud+%26+DevOps+Engineer+@+WIIT;Linux+%7C+Kubernetes+%7C+Automation;Infrastructure+as+Code+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Fullstack+Software+Developer+%26+DevOps+Engineer+@+WIIT;Linux+%7C+Kubernetes+%7C+Automation;Infrastructure+as+Code+enthusiast)](https://git.io/typing-svg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=ExtremTechniker&color=0078d7&style=flat-square)
 
 </div>
 
 ## 🚀 About me
-- ☁️ Working on cloud infrastructure at **WIIT**
+- ☁️ Fullstack Software Developer & DevOps Engineer at **WIIT**
 - 🔧 Into automation, reliability and everything Linux
 - 🌱 Always learning something new
 
@@ -22,7 +22,7 @@
 | 🐍 **Next step** | Moved on to **Python** for scripting and automation |
 | 🌐 **Web** | Added **PHP** for web projects |
 | 🖥️ **Infrastructure** | Got into **Proxmox** virtualization, **GitLab** CI/CD and Linux servers |
-| ☁️ **Today** | Cloud & DevOps at **WIIT** |
+| ☁️ **Today** | Fullstack Software Developer & DevOps Engineer at **WIIT** |
 
 ## 🛠️ Tech stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
